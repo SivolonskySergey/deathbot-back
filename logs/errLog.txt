@@ -1,0 +1,33 @@
+20231209	22:23:49	2c8c4484-81c6-4178-bfc2-bcd7468c18d3	ReferenceError: filepath is not defined
+20231209	22:23:59	fd95b4e8-38c7-4b7a-a244-d9ea671f0a02	ReferenceError: filepath is not defined
+20231210	16:20:10	afefb3ae-732e-418f-958d-2bf9d3c2b934	Error: Not allowed by CORS
+20231211	23:17:09	6d2c0c0b-f91f-4ade-96fb-34ea163de4d8	ReferenceError: firstname is not defined
+20231211	23:17:59	0c588d31-aef3-4e3a-a3ed-aa668c1b4cab	ReferenceError: firstname is not defined
+20231213	23:22:20	378ce71e-fab1-498a-8c28-ce17b97a94fe	SyntaxError: Unexpected token e in JSON at position 0
+20231213	23:22:44	0d36c0af-e67d-4989-b50c-78908cccb4ba	SyntaxError: Unexpected token e in JSON at position 0
+20231214	22:12:52	c84d98a7-4b9b-4a13-8cea-ec7edabe857c	ReferenceError: accessToken is not defined
+20231218	21:50:00	bb9d4585-b3c6-454b-9922-c9850b33a1f2	SyntaxError: Unexpected token " in JSON at position 0
+20231218	21:53:17	34ceb5f2-fc62-41ba-80cf-e16767f6b9b5	SyntaxError: Unexpected token " in JSON at position 0
+20231218	21:53:35	7ec5c788-d46a-4e5d-8b50-0a326fde09e7	SyntaxError: Unexpected token e in JSON at position 0
+20231218	21:53:36	ac30479d-cf77-4a05-bd79-ef48cddfab71	SyntaxError: Unexpected token e in JSON at position 0
+20231218	21:53:37	a5a16926-48b5-4bce-920a-9da6fdecac75	SyntaxError: Unexpected token e in JSON at position 0
+20231218	21:53:37	d9d2ae70-fab7-4dbf-a639-659568dd121d	SyntaxError: Unexpected token e in JSON at position 0
+20231218	21:53:37	9fc3f203-2863-49af-87d5-750ce26c1f18	SyntaxError: Unexpected token e in JSON at position 0
+20231218	23:05:00	c634df49-698c-4775-a34b-58fbe6185747	SyntaxError: Unexpected token e in JSON at position 0
+20231218	23:07:08	e277f5ea-43dd-4eda-9c60-7cf79629475b	SyntaxError: Unexpected token e in JSON at position 0
+20240120	20:45:08	718fca65-6d17-4651-a5c7-13deb9afee6b	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+20240120	20:49:14	13327cd2-8ecc-4f1e-90be-0a35b93d013d	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+20240120	20:49:14	cd072a7b-85e5-438f-8657-b057f1a82cd1	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+20240121	21:39:50	830819bc-f871-4e39-8065-b6b3545f6da9	SyntaxError: Unexpected token " in JSON at position 0
+20240121	22:01:56	d446b57c-4806-481a-80e1-54adaf8eaa24	TypeError: Cannot read properties of undefined (reading 'name')
+20240122	21:53:34	73bdb67c-1612-4c5a-b4b4-9b64b0cd10cd	TypeError: Cannot read properties of undefined (reading 'name')
+20240122	21:55:42	3a63750c-6802-423c-addb-677060bcb219	TypeError: Cannot read properties of undefined (reading 'name')
